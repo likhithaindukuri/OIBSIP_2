@@ -32,6 +32,7 @@
   h3{
     font-size: 26px;
     color: var(--color-black);
+    
   }
   h4{
     font-size: 19px;
@@ -81,6 +82,7 @@
     font-weight: 600;
     font-size: 14px;
     transition: var(--transition);
+    margin-top: 10px;
   }
   .btn:hover{
     background: var(--color-dark-variant);
@@ -94,6 +96,7 @@
   .btn-dark:hover{
     background: var(--color-black);
   }
+  
   img{
     width: 100%;
     display: block;
@@ -164,6 +167,8 @@
     margin-top: .7rem;
     display: flex;
     gap: .7rem;
+    padding-top: 100px;
+
   }
   .header-social{
     display: flex;
