@@ -261,7 +261,7 @@
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 250px;
+    gap: 20px;
   }
   .project img{
     border-radius: 30px;
